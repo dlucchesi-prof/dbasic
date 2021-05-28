@@ -4,6 +4,9 @@
 # IntelliJ Env
 *.idea
 
+# IntelliJ Env
+*.mvn
+
 # Log file
 *.log
 
